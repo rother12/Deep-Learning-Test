@@ -11,7 +11,7 @@ __version__=['0.0.1']
 __author__ = 'Won Sik Jung <rother12@hanmail.net>'
 '''Reference is '파이토치 딥러닝 프로젝트(2022.02) 
 This Code for Ai Test & Train
-CV(Computer Vision)__ Simple Model
+CV(Computer Vision) Chapter 1.__ Simple CNN Model
 '''
 
 # Check Device Option, If Gpu Setting is Available We Use Gpu Cuda
