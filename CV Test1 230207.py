@@ -9,6 +9,10 @@ import matplotlib.pyplot as plt
 
 __version__=['0.0.1']
 __author__ = 'Won Sik Jung <rother12@hanmail.net>'
+'''Reference is '파이토치 딥러닝 프로젝트(2022.02) 
+This Code for Ai Test & Train
+CV(Computer Vision)__ Simple Model
+'''
 
 # Check Device Option, If Gpu Setting is Available We Use Gpu Cuda
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
